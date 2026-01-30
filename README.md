@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rashmi Bishen
--I'm a Computer Science Engineering student with a strong academic background and a growing passion for  
+ I'm a Computer Science Engineering student with a strong academic background and a growing passion for  
 Web Development, Backend Engineering, DevSecOps, Cybersecurity, and AI/ML.
 
 I enjoy breaking systems to understand how they work — and then rebuilding them to be more efficient, secure, and scalable.
