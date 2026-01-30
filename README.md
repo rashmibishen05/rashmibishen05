@@ -1,26 +1,14 @@
-- 👋 Hi, I’m Rashmi Bishen,
- I'm a Computer Science Engineering student with a strong academic background and a growing passion for  
-Web Development, Backend Engineering, DevSecOps, Cybersecurity, and AI/ML.
+# 💫 About Me:
+👋 Hi, I'm Rashmi Bishen<br> I'm a Computer Science Engineering student with a strong academic background and a growing passion for  <br>Web Development, Backend Engineering, DevSecOps, Cybersecurity, and AI/ML.<br><br>I enjoy breaking systems to understand how they work — and then rebuilding them to be more efficient, secure, and scalable.<br><br>🏆 Achievements<br>- 🥇 Winner – *Best Women in Startup*, Startup Haryana Festival (MDU Rohtak)<br>- 📈 Consistently ranked among the top academic performers, securing 1st position in the first three semesters<br>- 🚀 Active participant in hackathons and hands-on training programs<br><br>💻 What I Do<br>- Build full-stack and backend-focused applications<br>- Explore security vulnerabilities and system hardening techniques<br>- Learn and apply DevSecOps practices and secure deployment workflows<br>- Work on real-world projects to bridge theory with practice<br><br>🌱 Currently Learning<br>- Advanced Backend Development<br>- DevSecOps & Cybersecurity fundamentals<br>- AI/ML concepts with practical implementation<br><br>📌 I believe in learning by building, breaking, and improving systems.
 
-I enjoy breaking systems to understand how they work — and then rebuilding them to be more efficient, secure, and scalable.
 
-🏆 Achievements
-- 🥇 Winner – Best Women in Startup, Startup Haryana Festival (MDU Rohtak)
-- 📈 Consistently ranked among the top academic performers, securing 1st position in the first three semesters
-- 🚀 Active participant in hackathons and hands-on training programs
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rashmibishen22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rashmibishen22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rashmibishen22@gmail.com) 
 
-💻 What I Do
-- Build full-stack and backend-focused applications
-- Explore security vulnerabilities and system hardening techniques
-- Learn and apply DevSecOps practices and secure deployment workflows
-- Work on real-world projects to bridge theory with practice
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-🌱 Currently Learning
-- Advanced Backend Development
-- DevSecOps & Cybersecurity fundamentals
-- AI/ML concepts with practical implementation
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-📌 I believe in learning by building, breaking, and improving systems.
-- 📫 You can contact on me rashmibishen22@gmail.com
-- 😄 Pronouns: She/Her
 
