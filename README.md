@@ -103,31 +103,9 @@ PYTHON ............. [██████████████░░░] ACTIV
 [+] Keep defending.
 ```
 
-## `> PROJECTS`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                      PROJECT DATABASE                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [01] Network Security Lab                                   ║
-║       └── Packet Analysis / Nmap / Wireshark                 ║
-║                                                              ║
-║  [02] Web Security Lab                                       ║
-║       └── OWASP / Burp Suite / Vulnerability Research        ║
-║                                                              ║
-║  [03] Security Automation                                    ║
-║       └── Python / Bash / Log Analysis                       ║
-║                                                              ║
-║  [04] CTF Writeups                                           ║
-║       └── Forensics / Web / Linux / Crypto                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 ---
 
-## `> CURRENT_OPERATION`
+## `$ CURRENT_OPERATION`
 
 ```text
 TARGET: KNOWLEDGE
