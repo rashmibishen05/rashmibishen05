@@ -165,9 +165,9 @@ Cloud Security      ███████░░░░░░░░░░░░░
 │                                                  — Kali Linux │
 └───────────────────────────────────────────────────────────────┘
 ```
-<div align="center">
-[![Visitor Count](https://komarev.com/ghpvc/?username=rashmibishen05&color=00ff41&style=flat-square&label=Profile+Views)
-</div>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rashmibishen05&color=00ff41&style=flat-square&label=Profile+Views)
+
 
 `[ SYSTEM ONLINE ]`  `|`  `[ KEEP LEARNING ]`  `|`  `[ STAY ETHICAL ]`
 
