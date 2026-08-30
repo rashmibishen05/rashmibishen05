@@ -158,7 +158,7 @@ Cloud Security      ███████░░░░░░░░░░░░░
 └─# echo "See you on the other side..."
 ```
 
-
+<div align="center">
 ```
 ┌───────────────────────────────────────────────────────────────┐
 │  "The keyboard is my weapon, knowledge is my ammunition."     │
