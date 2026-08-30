@@ -138,25 +138,8 @@ Cloud Security      ███████░░░░░░░░░░░░░
 ╰────────────────────────────────────────────╯
 ```
 
----
 
-## `> GITHUB_STATS`
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kunal-Jain-385&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Jain-385&theme=dark&hide_border=true" />
-
-</p>
-
----
-
-## `> CONNECT`
+## `$ CONNECT`
 
 ```bash
 ┌──(rashmi㉿kali)-[~/social]
@@ -177,10 +160,10 @@ Cloud Security      ███████░░░░░░░░░░░░░
 
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  "The keyboard is my weapon, knowledge is my ammunition."   │
-│                                    — Kali Linux             │
-└─────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────┐
+│  "The keyboard is my weapon, knowledge is my ammunition."     │
+│                                                  — Kali Linux │
+└───────────────────────────────────────────────────────────────┘
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=iumangkaushik&color=00ff41&style=flat-square&label=Profile+Views)
