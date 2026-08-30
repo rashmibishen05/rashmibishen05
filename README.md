@@ -1,14 +1,226 @@
-# 💫 About Me:
-👋 Hi, I'm Rashmi Bishen<br> I'm a Computer Science Engineering student with a strong academic background and a growing passion for  <br>Web Development, Backend Engineering, DevSecOps, Cybersecurity, and AI/ML.<br><br>I enjoy breaking systems to understand how they work — and then rebuilding them to be more efficient, secure, and scalable.<br><br>🏆 Achievements<br>- 🥇 Winner – *Best Women in Startup*, Startup Haryana Festival (MDU Rohtak)<br>- 📈 Consistently ranked among the top academic performers, securing 1st position in the first three semesters<br>- 🚀 Active participant in hackathons and hands-on training programs<br><br>💻 What I Do<br>- Build full-stack and backend-focused applications<br>- Explore security vulnerabilities and system hardening techniques<br>- Learn and apply DevSecOps practices and secure deployment workflows<br>- Work on real-world projects to bridge theory with practice<br><br>🌱 Currently Learning<br>- Advanced Backend Development<br>- DevSecOps & Cybersecurity fundamentals<br>- AI/ML concepts with practical implementation<br><br>📌 I believe in learning by building, breaking, and improving systems.
+# `> ACCESSING_PROFILE...`
 
+```text
+    ╔══════════════════════════════════════════════════════════════════════════════════════════════════╗
+    ║                                                                                                  ║
+    ║   ██████╗  █████╗ ███████╗██╗  ██╗███╗   ███╗██╗ ██████╗ ██╗███████╗██╗  ██╗███████╗███╗   ██╗   ║
+    ║   ██╔══██╗██╔══██╗██╔════╝██║  ██║████╗ ████║██║ ██╔══██╗██║██╔════╝██║  ██║██╔════╝████╗  ██║   ║
+    ║   ██████╔╝███████║███████╗███████║██╔████╔██║██║ ██████╔╝██║███████╗███████║█████╗  ██╔██╗ ██║   ║
+    ║   ██╔══██╗██╔══██║╚════██║██╔══██║██║╚██╔╝██║██║ ██╔══██╗██║╚════██║██╔══██║██╔══╝  ██║╚██╗██║   ║
+    ║   ██║  ██║██║  ██║███████║██║  ██║██║ ╚═╝ ██║██║ ██████╔╝██║███████║██║  ██║███████╗██║ ╚████║   ║
+    ║   ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝ ╚═════╝ ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝   ║
+    ║                                                                                                  ║
+    ╚══════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rashmibishen22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rashmibishen22@gmail.com) 
+<p align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Initializing+Profile...;%3E+Scanning+Network...;%3E+Access+Granted+%5B%F0%9F%9F%A2%5D" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+</p>
 
+## `$ system_info`
 
+```bash
+┌──(rashmi㉿kali)-[~]
+└─$ status
+
+[+] SYSTEM ........ ONLINE
+[+] FIREWALL ...... ACTIVE
+[+] NETWORK ....... MONITORED
+[+] SECURITY ...... ENABLED
+[+] MODE .......... LEARNING
+```
+
+---
+
+## `$ whoami`
+
+```bash
+┌──(rashmi㉿kali)-[~/profile]
+└─$ cat porfile.txt
+
+╭──────────────────────────────────────────────────────────────╮
+│                       USER PROFILE                           │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  USER      : Rashmi Bishen                                   │
+│  ROLE      : Cybersecurity Analyst                           │
+│  EDUCATION : B.Tech - Computer Science Engineering           │
+│  OS        : Linux / Windows                                 │
+│  LOCATION  : Earth 🌍                                        │
+│  STATUS    : ● ONLINE                                        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+---
+
+## `$ cat skills.sh`
+
+```bash
+┌──(rashmi㉿kali)-[~/profile]
+└─$ ls -la /skills
+
+drwxr-xr-x  ethical-hacking/
+drwxr-xr-x  web-security/
+drwxr-xr-x  digital-forensics/
+drwxr-xr-x  linux/
+drwxr-xr-x  python/
+drwxr-xr-x  cryptography/
+```
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,python,bash,c,git,github,docker" />
+
+</p>
+
+---
+
+## `$ cat tools.sh`
+
+```text
+[████████████████████████████████████████] 100%
+
+Recon .............. [███████████████░░] LEARNING
+NMAP ............... [█████████████████] MASTERED
+WIRESHARK .......... [███████████████░░] LEARNING
+BURP SUITE ......... [██████████████░░░] LEARNING
+LINUX .............. [████████████████░] ACTIVE
+PYTHON ............. [██████████████░░░] ACTIVE
+```
+
+---
+
+## `$ Terminal`
+```
+┌──(rashmi㉿kali)-[~]
+└─$ ./continue_learning.sh
+
+[+] Keep learning.
+[+] Keep testing.
+[+] Keep defending.
+```
+
+## `> PROJECTS`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                      PROJECT DATABASE                        ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [01] Network Security Lab                                   ║
+║       └── Packet Analysis / Nmap / Wireshark                 ║
+║                                                              ║
+║  [02] Web Security Lab                                       ║
+║       └── OWASP / Burp Suite / Vulnerability Research        ║
+║                                                              ║
+║  [03] Security Automation                                    ║
+║       └── Python / Bash / Log Analysis                       ║
+║                                                              ║
+║  [04] CTF Writeups                                           ║
+║       └── Forensics / Web / Linux / Crypto                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `> CURRENT_OPERATION`
+
+```text
+TARGET: KNOWLEDGE
+
+[████████████████████░░░░░░░░░░] 68%
+
+Reconnaissance      ████████████████████ 100%
+Linux               █████████████████░░░  85%
+Networking          ███████████████░░░░░  75%
+Web Security        █████████████░░░░░░░  65%
+Python              ███████████████░░░░░  75%
+Forensics           ██████████░░░░░░░░░░  50%
+Cloud Security      ███████░░░░░░░░░░░░░  35%
+```
+
+---
+
+## `> CTF_MODE`
+
+```text
+╭────────────────────────────────────────────╮
+│              CAPTURE THE FLAG              │
+├────────────────────────────────────────────┤
+│                                            │
+│  STATUS       : ACTIVE                     │
+│  CHALLENGES   : ████████░░░░░░             │
+│  FLAGS        : ████████░░░░░░             │
+│  EXPERIENCE   : INCREASING...              │
+│                                            │
+╰────────────────────────────────────────────╯
+```
+
+---
+
+## `> GITHUB_STATS`
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kunal-Jain-385&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-Jain-385&theme=dark&hide_border=true" />
+
+</p>
+
+---
+
+## `> CONNECT`
+
+```bash
+┌──(rashmi㉿kali)-[~/social]
+└─# ./connect.sh
+```
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmibishen22) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/rashmibishen05)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashmibishen22@gmail.com)
+
+</p>
+
+```
+┌──(rashmi㉿kali)-[~]
+└─# echo "See you on the other side..."
+```
+
+<div align="center">
+```
+┌─────────────────────────────────────────────────────────────┐
+│  "The quieter you become, the more you can hear."           │
+│                                    — Kali Linux             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+![Visitor Count](https://komarev.com/ghpvc/?username=iumangkaushik&color=00ff41&style=flat-square&label=Profile+Views)
+</div>
+
+<p align="center">
+
+`[ SYSTEM ONLINE ]`  `|`  `[ KEEP LEARNING ]`  `|`  `[ STAY ETHICAL ]`
+
+</p>
+
+```text
+                                        ███████╗███╗   ██╗██████╗  
+                                        ██╔════╝████╗  ██║██╔══██╗ 
+                                        █████╗  ██╔██╗ ██║██║  ██║ 
+                                        ██╔══╝  ██║╚██╗██║██║  ██║ 
+                                        ███████╗██║ ╚████║██████╔╝ 
+                                        ╚══════╝╚═╝  ╚═══╝╚═════╝  
+
+> CONNECTION TERMINATED_
+```
