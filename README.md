@@ -178,7 +178,7 @@ Cloud Security      ███████░░░░░░░░░░░░░
 <div align="center">
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  "The quieter you become, the more you can hear."           │
+│  "The keyboard is my weapon, knowledge is my ammunition."   │
 │                                    — Kali Linux             │
 └─────────────────────────────────────────────────────────────┘
 ```
