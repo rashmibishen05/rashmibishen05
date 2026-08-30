@@ -175,7 +175,7 @@ Cloud Security      ███████░░░░░░░░░░░░░
 └─# echo "See you on the other side..."
 ```
 
-<div align="center">
+
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │  "The keyboard is my weapon, knowledge is my ammunition."   │
@@ -185,8 +185,6 @@ Cloud Security      ███████░░░░░░░░░░░░░
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=iumangkaushik&color=00ff41&style=flat-square&label=Profile+Views)
 </div>
-
-<p align="center">
 
 `[ SYSTEM ONLINE ]`  `|`  `[ KEEP LEARNING ]`  `|`  `[ STAY ETHICAL ]`
 
