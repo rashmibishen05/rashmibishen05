@@ -145,27 +145,27 @@ Cloud Security      ███████░░░░░░░░░░░░░
 ┌──(rashmi㉿kali)-[~/social]
 └─# ./connect.sh
 ```
-<p align="center">
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashmibishen22) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/rashmibishen05)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rashmibishen22@gmail.com)
 
-</p>
+</div>
 
 ```
 ┌──(rashmi㉿kali)-[~]
 └─# echo "See you on the other side..."
 ```
 
-<div align="center">
+
 ```
 ┌───────────────────────────────────────────────────────────────┐
 │  "The keyboard is my weapon, knowledge is my ammunition."     │
 │                                                  — Kali Linux │
 └───────────────────────────────────────────────────────────────┘
 ```
-
+<div align="center">
 ![Visitor Count](https://komarev.com/ghpvc/?username=iumangkaushik&color=00ff41&style=flat-square&label=Profile+Views)
 </div>
 
