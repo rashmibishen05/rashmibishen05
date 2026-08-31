@@ -158,6 +158,7 @@ Cloud Security      ███████░░░░░░░░░░░░░
 └─# echo "See you on the other side..."
 ```
 
+<div align="center">
 
 ```
 ┌───────────────────────────────────────────────────────────────┐
@@ -171,7 +172,7 @@ Cloud Security      ███████░░░░░░░░░░░░░
 
 `[ SYSTEM ONLINE ]`  `|`  `[ KEEP LEARNING ]`  `|`  `[ STAY ETHICAL ]`
 
-</p>
+</div>
 
 ```text
                                         ███████╗███╗   ██╗██████╗  
