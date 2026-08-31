@@ -162,8 +162,8 @@ Cloud Security      ███████░░░░░░░░░░░░░
 
 ```
 ┌───────────────────────────────────────────────────────────────┐
-│  "The keyboard is my weapon, knowledge is my ammunition."     │
-│                                                  — Kali Linux │
+| In the world of zeros and ones, knowledge is power.           |
+│                                           — Kali Linux        │
 └───────────────────────────────────────────────────────────────┘
 ```
 
